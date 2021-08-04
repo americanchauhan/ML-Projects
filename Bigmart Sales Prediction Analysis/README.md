@@ -1,5 +1,6 @@
 # BigMart Sales Prediction Analysis
 
+**Learnt from: AshwinTechGuy** https://youtu.be/CD58mco2XqA
 
 # Dataset Information
 
@@ -41,4 +42,3 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>Random Forest
 <li>Extra Tress
 
-**Learnt from: ** https://youtu.be/CD58mco2XqA
